@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    text-align: center;
+}
+#chart{
+    display: inline-block;
+}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: left;								
+    padding: 10px;				
+    font: 12px sans-serif;		
+    	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
