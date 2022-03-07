@@ -1,7 +1,7 @@
 {
-  "name": "new-project",
+  "name": "scatter-plot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Doping in Professional Bicycle Racing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greekmido/barchart.git"
+    "url": "git+https://github.com/greekmido/scatter-plot"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/greekmido/barchart/issues"
   },
-  "homepage": "https://github.com/greekmido/barchart#readme",
+  "homepage": "https://github.com/greekmido/scatter-plot",
   "devDependencies": {
     "css-loader": "^6.6.0",
     "html-loader": "^3.1.0",
@@ -28,5 +28,8 @@
     "webpack-merge": "^5.8.0",
     "webpack-nano": "^1.1.1",
     "webpack-plugin-serve": "^1.6.0"
+  },
+  "dependencies": {
+    "d3": "^7.3.0"
   }
 }
