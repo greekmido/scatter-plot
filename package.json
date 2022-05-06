@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greekmido/scatter-plot"
+    "url": "git+https://github.com/shellparse/scatter-plot"
   },
   "author": "mohammad alameri",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/greekmido/barchart/issues"
+    "url": "https://github.com/shellparse/barchart/issues"
   },
-  "homepage": "https://github.com/greekmido/scatter-plot",
+  "homepage": "https://github.com/shellparse/scatter-plot",
   "devDependencies": {
     "css-loader": "^6.6.0",
     "gh-pages": "^3.2.3",
