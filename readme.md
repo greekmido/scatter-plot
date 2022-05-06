@@ -4,4 +4,4 @@
 
 chart built with D3 
 
-[![calculator](https://img.shields.io/static/v1?label=scatterPlot&message=Live&color=gray&labelColor=green)](https://greekmido.github.io/scatter-plot/)
+[![calculator](https://img.shields.io/static/v1?label=scatterPlot&message=Live&color=gray&labelColor=green)](https://shellparse.github.io/scatter-plot/)
